@@ -3,7 +3,10 @@
 
 <template>
   <div>
-    <h1>Home</h1>
-    <p>This is the Home page</p>
+    <div class="Main-Title">
+      <h1>Alexandre Lou-Poueyou</h1>
+    </div>
+    <h1>Welcome on my portfolio</h1>
+    
   </div>
 </template>
