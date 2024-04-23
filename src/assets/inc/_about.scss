@@ -1,0 +1,89 @@
+.presentation{
+
+
+    //Fais un cadre autour de la presentation
+    border: .2em solid $lemon;
+    box-shadow: 0 0 .5em $lemon;
+    border-radius: .3em;
+    padding: 2em;
+    width: 50%;
+
+    //Centre la presentation
+    margin: auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    p{
+        font-size: size(16);
+        font-weight: 300;
+        line-height: 1.5;
+        margin-bottom: 1.5rem;
+
+        justify-content: center;
+        text-align: justify;
+    }
+}
+
+
+.biography{
+    display: flex;
+    justify-content: left;
+    margin-top: .5em;
+    margin-bottom: .5em;
+    margin: 2.5em;
+
+    h2{
+        font-size: size(24);
+        color: $lemon;
+        margin-bottom: 3em;
+    }
+
+    .bio-tab{
+        font-size: size(16);
+        padding: 1em;
+        margin-right: 1em;
+        margin-top: 1em;
+
+        li {
+            color: $lemon;
+            //make the text got shadow
+            text-decoration: underline;
+
+            margin-bottom: 1.5em;
+            display: flex;
+            justify-content: left;
+            text-align: center;
+        }
+    }
+
+    .bio-element{
+        font-size: size(16);
+        padding: 1em;
+        margin-top: 1em;
+
+        li {
+            margin-bottom: 1.5em;
+            display: flex;
+            justify-content: left;
+            text-align: justify;
+        }
+    }
+}
+
+.network{
+
+    display: flex;
+    justify-content: center;
+
+    .vignet{
+        margin: 1em;
+        padding: 1em;
+        border-radius: 50%;
+        background-color: $lemon;
+        box-shadow: 0 0 .5em $lemon;
+    }
+
+    .logo{
+        background-color: $lemon;
+        border-radius: 20%;
+    }
+}

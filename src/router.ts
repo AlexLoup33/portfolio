@@ -13,6 +13,15 @@ const routes: Array<RouteRecordRaw> = [
         name: "About",
         component: () => import("./components/About.vue"),
     },
+    {
+        path: '/404',
+        name: '404', 
+        component: () => import("./components/404.vue"),
+    },
+    {
+        path: '/:pathMatch(.*)*',
+        redirect: '/404',
+    },
 ];
 
 const router = createRouter({

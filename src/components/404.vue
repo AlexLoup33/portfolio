@@ -5,8 +5,8 @@
   <div>
     <!-- Title -->
     <div class="Main-Title">
-      <h1>Alexandre Lou-Poueyou<br>Junior developper</h1>
-      <img src="./../../public/me.jpeg" alt="Me">
+      <h1>404</h1>
+      <img src="./../../public/vite.svg" alt="Me">
     </div>
     <!-- Button to present me -->
     <div class="button">
