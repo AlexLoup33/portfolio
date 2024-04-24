@@ -43,9 +43,7 @@
 
     <ul class="project-tab">
         <li class="project-element">
-            <a href="">
-                <img src="/noimg.png" alt="project" class="project-img">
-            </a>
+            <img src="/noimg.png" alt="project" class="project-img">
             <h3>Valhathle</h3>
             <p>Web application for sharing activities and photos about sports (no redirection actually)</p>
         </li>
