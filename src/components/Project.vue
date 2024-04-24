@@ -43,7 +43,7 @@
 
     <ul class="project-tab">
         <li class="project-element">
-            <a href="https://alexloup-dev.vercel.app/projects">
+            <a href="">
                 <img src="/noimg.png" alt="project" class="project-img">
             </a>
             <h3>Valhathle</h3>
