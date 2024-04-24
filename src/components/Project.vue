@@ -43,11 +43,11 @@
 
     <ul class="project-tab">
         <li class="project-element">
-            <a href="/project" target="_blanks">
+            <a href="https://alexloup-dev.vercel.app/projects">
                 <img src="/noimg.png" alt="project" class="project-img">
             </a>
             <h3>Valhathle</h3>
-            <p>Web application for sharing activities and photos about sports</p>
+            <p>Web application for sharing activities and photos about sports (no redirection actually)</p>
         </li>
     </ul>
 </template>
