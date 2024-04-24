@@ -3,16 +3,9 @@
 
 <template>
   <div>
-    <!-- Title -->
-    <div class="Main-Title">
-      <h1>404</h1>
-      <img src="./../../public/vite.svg" alt="Me">
-    </div>
-    <!-- Button to present me -->
-    <div class="button">
-      <router-link to="/about">
-        <button>Get started</button>
-      </router-link>
+    <div class="ErrorTitle">
+      <h2>Error 404</h2>
+      <h1>Oups... seems your lost</h1>
     </div>
   </div> 
 </template>

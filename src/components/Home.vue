@@ -6,7 +6,7 @@
     <!-- Title -->
     <div class="Main-Title">
       <h1>Alexandre Lou-Poueyou<br>Junior developper</h1>
-      <img src="./../../public/me.jpeg" alt="Me">
+      <img src="/me.jpg" alt="Me">
     </div>
     <!-- Button to present me -->
     <div class="button">

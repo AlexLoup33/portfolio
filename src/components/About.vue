@@ -47,17 +47,23 @@
     </div>
     <div class="network">
       <div class="network-element">
-        <a href="https://www.linkedin.com/in/alexandre-lou-poueyou-0b1b3b1b3/" target="_blank" class="vignet">
-          <img src="./../../public/icons8-linkedin-50.png" class="logo" alt="Linkedin">
+        <a href="https://www.linkedin.com/in/alexandre-lou-poueyou-426882267" target="_blank" class="vignet">
+          <img src="/icons8-linkedin-50.png" class="logo" alt="Linkedin">
         </a>
         <a href="https://www.github.com/AlexLoup33" target="_blank" class="vignet">
-          <img src="./../../public/icons8-github-50.png" class="logo" alt="Github">
+          <img src="/icons8-github-50.png" class="logo" alt="Github">
         </a>
         <a href="https://www.gitlab.com/AlexLoup33" target="_blank" class="vignet">
-          <img src="./../../public/icons8-gitlab-50.png" class="logo" alt="Gitlab">
+          <img src="/icons8-gitlab-50.png" class="logo" alt="Gitlab">
         </a>
-        <a href="https://www.youtube.com/channel/UCnVtK5lQX69LiT177J697Zw" target="_blank" class="vignet">
-          <img src="./../../public/icons8-youtube-50.png" class="logo" alt="Youtube">
+        <a href="https://www.instagram.com/alexloup.dev/" target="_blank" class="vignet">
+          <img src="/icons8-instagram-50.png" class="logo" alt="Instagram">
+        </a>
+        <a href="https://twitter.com/AlexLoup_dev" target="_blank" class="vignet">
+          <img src="/icons8-twitter-50.png" class="logo" alt="Twitter">
+        </a>
+        <a href="https://www.youtube.com/channel/UCfVpGYf636ssz1GqA2xZfMA" target="_blank" class="vignet">
+          <img src="/icons8-youtube-50.png" class="logo" alt="Youtube">
         </a>
       </div>
     </div>

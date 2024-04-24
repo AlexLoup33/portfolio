@@ -30,8 +30,8 @@
   </div>
   <div>
     <footer>
-      <p>&copy; 2024</p>
-      <p>Created by <a href="https://github.com/AlexLoup33" target="_blanks">AlexLoup</a></p>
+      <p>&copy; 2024 - All Rights Reserved</p>
+      <p>Created by <a href="https://github.com/AlexLoup33" target="_blanks">AlexLoup</a>. Icons by <a href="https://icones8.fr/" target="_blank">Icons8</a></p>
     </footer>
   </div>
 </template>

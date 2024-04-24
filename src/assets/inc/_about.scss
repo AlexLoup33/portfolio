@@ -35,6 +35,8 @@
         font-size: size(24);
         color: $lemon;
         margin-bottom: 3em;
+        width: 10%;
+        text-decoration: underline;
     }
 
     .bio-tab{
@@ -42,6 +44,7 @@
         padding: 1em;
         margin-right: 1em;
         margin-top: 1em;
+        height: 30%;
 
         li {
             color: $lemon;
@@ -51,7 +54,7 @@
             margin-bottom: 1.5em;
             display: flex;
             justify-content: left;
-            text-align: center;
+            text-align: justify;
         }
     }
 
@@ -78,6 +81,7 @@
         margin: 1em;
         padding: 1em;
         border-radius: 50%;
+        border: .05em solid $black;
         background-color: $lemon;
         box-shadow: 0 0 .5em $lemon;
     }
@@ -85,5 +89,6 @@
     .logo{
         background-color: $lemon;
         border-radius: 20%;
+        border: .05em solid $black;
     }
 }
